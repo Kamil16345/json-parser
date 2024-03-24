@@ -2,9 +2,9 @@
 
 ## Goals
 
-The goal of this project is to create a command-line interface (CLI) application that can parse JSON data and convert it into a structured Go data structure. Additionally, the application should be able to generate JSON data from a given Go structure. The application should handle proper error handling, structure validation, and IO operations.
+This project is a command-line interface (CLI) application that can parse JSON data and convert it into a structured Go data structure. Additionally, the application is able to generate JSON data from a given Go structure. The application handles proper error handling, structure validation, and IO operations.
 
-## Basic Requirements
+## Project assumptions
 
 1. JSON Parsing
     - The application should read JSON data from a file or accept JSON input from the user.
